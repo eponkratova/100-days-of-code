@@ -4,7 +4,7 @@
 
 **Today's Progress**: Finished clusters identification based on K-means.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Reading further and it might be the case that K-means is not the best way for a 1d data.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
 
