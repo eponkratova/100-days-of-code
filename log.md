@@ -8,3 +8,10 @@
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
 
+### Day 2: September 14, 2018.
+
+**Today's Progress**: Was working with kernel density estimation as K-means seems to be over-kill for the 1D data. 
+
+**Thoughts:** Angry with myself that it seems that I won't finish the piece today.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
