@@ -15,3 +15,11 @@
 **Thoughts:** Angry with myself that it seems that I won't finish the piece today.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Day 3: September 15, 2018.
+
+**Today's Progress**: Finished the color division based on kernel density estimation, added the color break based on percentiles, finished jenks natural breaks optimization algorithm, build graphs to compare the results I have received so far of different algorthms used.
+
+**Thoughts:** It was quit a productive morning. Managed to try a several ways to break the 1D data into intervals.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
