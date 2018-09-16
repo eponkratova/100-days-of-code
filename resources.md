@@ -13,3 +13,6 @@
 1. [Jenks Natural Breaks Optimization Python] (https://pythonexample.com/code/jenks-natural-breaks-optimization-python/) The collection of code snippets.
 2. [Jenskpy library used] (https://github.com/mthh/jenkspy)
 3. 9Jenks Natural Breaks in Python: How to find the optimum number of breaks?] (https://stats.stackexchange.com/questions/143974/jenks-natural-breaks-in-python-how-to-find-the-optimum-number-of-breaks)
+
+### Day 4
+1. [Nested-Means Map Classes for Statistical Maps] (https://sci-hub.tw/10.2307/2569394) A gem on the method.
