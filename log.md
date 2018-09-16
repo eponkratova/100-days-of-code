@@ -23,3 +23,11 @@
 **Thoughts:** It was quit a productive morning. Managed to try a several ways to break the 1D data into intervals.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Day 4: September 16, 2018.
+
+**Today's Progress**: Finished writing the function for the nested mean classification.
+
+**Thoughts:** It's just a day 4. Well, I will definately have to revisit the function later on as it is extremelly sloppy, but it works and for day four, I am fine with the function being sloppy.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
