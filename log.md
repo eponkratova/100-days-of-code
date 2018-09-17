@@ -31,3 +31,11 @@
 **Thoughts:** It's just a day 4. Well, I will definately have to revisit the function later on as it is extremelly sloppy, but it works and for day four, I am fine with the function being sloppy.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Day 5: September 17, 2018.
+
+**Today's Progress**: Finished writing the function for the equal intervals method.
+
+**Thoughts:** The function is somewhat ugly. Plus, it doesn't consider all the possibilities i.e. I was working with decimal numbers, but it could be whole, too, which the func doesn't take into account.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
