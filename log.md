@@ -39,3 +39,20 @@
 **Thoughts:** The function is somewhat ugly. Plus, it doesn't consider all the possibilities i.e. I was working with decimal numbers, but it could be whole, too, which the func doesn't take into account.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Days 6-8: September 18-20, 2018.
+
+**Today's Progress**: Was working on geometric intervals. 
+
+**Thoughts:** Such a waste of time in terms of real outputs. Put it aside as no progress was achieved.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Day 9: September 21, 2018.
+
+**Today's Progress**: Finished with code cleaning and methods comparison.
+
+**Thoughts:** Felt down at some poitn in the morning, but the more results I saw, the more motivation I had to continue.
+
+**Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
