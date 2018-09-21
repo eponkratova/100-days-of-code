@@ -16,3 +16,12 @@
 
 ### Day 4
 1. [Nested-Means Map Classes for Statistical Maps] (https://sci-hub.tw/10.2307/2569394) A gem on the method.
+
+### Day 5-8
+1. [Issues of Statistical Generalization] (https://www.colorado.edu/geography/gcraft/notes/cartocom/section6.html)
+2. [Classification Systems] (https://www.slideshare.net/johnjreiser/classification-systems)
+3. [Head/tail Breaks: A New Classification Scheme for Data with a Heavy-tailed Distribution] (https://arxiv.org/ftp/arxiv/papers/1209/1209.2801.pdf)
+4. [Choropleth Maps – A Guide to Data Classification] (https://gisgeography.com/choropleth-maps-data-classification/)
+5. [MAPPING GUIDE] (https://f-origin.hypotheses.org/wp-content/blogs.dir/1381/files/2014/02/2.7b_TR_Mapping_guide_external.pdf)
+6. [Geometric Classification Method in QGIS] (http://arc-team-open-research.blogspot.com/2014/07/geometric-classification-method-in-qgis.html)
+7. [Geographical Information Systems in Archaeology] (https://books.google.dj/books?id=fMCqf-YSRtsC&pg=PA143&lpg=PA143&dq=geometric+intervals+map&source=bl&ots=4JK_jlrNzk&sig=ezGQlEi1OXcHAmnSwQFbVv3QGl4&hl=en&sa=X&ved=2ahUKEwiyt9b30sfdAhUvyoUKHbhOCOQ4ChDoATAIegQIAhAB#v=onepage&q=geometric%20intervals%20map&f=false)
