@@ -27,3 +27,5 @@
 7. [Geographical Information Systems in Archaeology] (https://books.google.dj/books?id=fMCqf-YSRtsC&pg=PA143&lpg=PA143&dq=geometric+intervals+map&source=bl&ots=4JK_jlrNzk&sig=ezGQlEi1OXcHAmnSwQFbVv3QGl4&hl=en&sa=X&ved=2ahUKEwiyt9b30sfdAhUvyoUKHbhOCOQ4ChDoATAIegQIAhAB#v=onepage&q=geometric%20intervals%20map&f=false)
 
 https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512, https://stackoverflow.com/questions/47489804/changing-colors-on-bokeh-patches-plot-real-time?rq=1
+https://www.udemy.com/python-bokeh/
+https://rebeccabilbro.github.io/interactive-viz-bokeh/
