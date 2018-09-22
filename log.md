@@ -40,7 +40,7 @@
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
 
-### Days 6-8: September 18-20, 2018.
+### Days 6-7: September 18-20, 2018.
 
 **Today's Progress**: Was working on geometric intervals. 
 
@@ -48,11 +48,19 @@
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
 
-### Day 9: September 21, 2018.
+### Day 8: September 21, 2018.
 
 **Today's Progress**: Finished with code cleaning and methods comparison.
 
 **Thoughts:** Felt down at some poitn in the morning, but the more results I saw, the more motivation I had to continue.
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
+
+### Day 9: September 22, 2018.
+
+**Today's Progress**: Finished with another course in the DataCamp 'Data Science track' on data viz.
+
+**Thoughts:** No progress was made with any of the projects.
+
+**Link to work:** 
 
