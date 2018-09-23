@@ -64,3 +64,11 @@
 
 **Link to work:** 
 
+### Day 10: September 23, 2018.
+
+**Today's Progress**: Was reading on the genetic algorithm.
+
+**Thoughts:** No progress was made with any of the projects.
+
+**Link to work:** 
+
