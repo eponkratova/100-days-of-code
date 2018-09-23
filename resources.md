@@ -29,3 +29,6 @@
 https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512, https://stackoverflow.com/questions/47489804/changing-colors-on-bokeh-patches-plot-real-time?rq=1
 https://www.udemy.com/python-bokeh/
 https://rebeccabilbro.github.io/interactive-viz-bokeh/
+
+### Day 10.
+1. [Machine Learning: Introduction to Genetic Algorithms](https://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/)
