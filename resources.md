@@ -32,3 +32,7 @@ https://rebeccabilbro.github.io/interactive-viz-bokeh/
 
 ### Day 10.
 1. [Machine Learning: Introduction to Genetic Algorithms](https://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/)
+2. (https://github.com/ezstoltz/genetic-algorithm)
+3. (https://gist.github.com/turbofart/3428880)
+4. (https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
+5. (https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
