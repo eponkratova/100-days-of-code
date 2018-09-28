@@ -72,3 +72,11 @@
 
 **Link to work:** 
 
+### Day 11-15: September 24-28, 2018.
+
+**Today's Progress**: Done with d3 viz of the DEA
+
+**Thoughts:** A bit depressed when looking at other's code...
+
+**Link to work:** https://github.com/eponkratova/data_envelopment_analysis
+
