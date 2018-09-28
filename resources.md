@@ -30,9 +30,16 @@ https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-i
 https://www.udemy.com/python-bokeh/
 https://rebeccabilbro.github.io/interactive-viz-bokeh/
 
-### Day 10.
+### Day 10
 1. [Machine Learning: Introduction to Genetic Algorithms](https://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/)
 2. (https://github.com/ezstoltz/genetic-algorithm)
 3. (https://gist.github.com/turbofart/3428880)
 4. (https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
 5. (https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
+
+### Day 11-15
+1. (http://bl.ocks.org/bceskavich/a9a365467b5e1d2075f6)
+2. (http://bl.ocks.org/syntagmatic/4020926)
+3. (http://benalexkeen.com/parallel-coordinates-in-matplotlib/)
+4. (http://www.joseluisgarcianava.com/depfie/linear-optimization/data-envelopment-analysis/)
+5. (http://knuth.uca.es/shiny/DEA/)
