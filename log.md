@@ -78,5 +78,5 @@
 
 **Thoughts:** A bit depressed when looking at other's code...
 
-**Link to work:** https://github.com/eponkratova/data_envelopment_analysis
+**Link to work:** [DEA](https://github.com/eponkratova/data_envelopment_analysis)
 
