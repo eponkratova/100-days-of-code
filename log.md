@@ -80,3 +80,11 @@
 
 **Link to work:** [DEA](https://github.com/eponkratova/data_envelopment_analysis)
 
+### Day 16: September 29, 2018.
+
+**Today's Progress**: Done with tweaking the code
+
+**Thoughts:** Almost done with the project. What is left is a write-up and code cleaning. Actually happy.
+
+**Link to work:** [DEA](https://github.com/eponkratova/data_envelopment_analysis)
+
