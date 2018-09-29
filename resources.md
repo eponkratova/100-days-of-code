@@ -43,3 +43,7 @@ https://rebeccabilbro.github.io/interactive-viz-bokeh/
 3. (http://benalexkeen.com/parallel-coordinates-in-matplotlib/)
 4. (http://www.joseluisgarcianava.com/depfie/linear-optimization/data-envelopment-analysis/)
 5. (http://knuth.uca.es/shiny/DEA/)
+
+### Day 16
+1. (https://github.com/metjush/envelopment-py/blob/master/envelopment.py#L153)
+2. (https://banxia.com/frontier/resources/how-data-envelopment-analysis-works/)
