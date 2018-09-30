@@ -32,7 +32,7 @@
 
 **Link to work:** [Color codding with Python](https://github.com/eponkratova/color-map-techniques)
 
-### Day 5: September 17, 2018.
+### Day 6: September 17, 2018.
 
 **Today's Progress**: Finished writing the function for the equal intervals method.
 
