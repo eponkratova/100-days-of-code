@@ -88,3 +88,10 @@
 
 **Link to work:** [DEA](https://github.com/eponkratova/data_envelopment_analysis)
 
+### Day 27: October 09, 2018.
+
+**Today's Progress**: DEA...
+
+**Thoughts:** Takes so long to finish it off...
+
+**Link to work:** [DEA](https://github.com/eponkratova/data_envelopment_analysis)
