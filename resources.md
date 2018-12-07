@@ -56,7 +56,7 @@ Datasets:
 4. http://people.sc.fsu.edu/~jburkardt/f_src/tsp_io/tsp_io.html
 
 Useful tools:
-1.https://developers.google.com/optimization/install/python/
+1. https://developers.google.com/optimization/install/python/
 2. https://github.com/topics/travelling-salesman-problem?l=python
 3. https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/
 4. https://codereview.stackexchange.com/questions/194947/genetic-algorithm-for-traveling-salesman
