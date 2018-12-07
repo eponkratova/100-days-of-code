@@ -47,3 +47,12 @@ https://rebeccabilbro.github.io/interactive-viz-bokeh/
 ### Day 16
 1. (https://github.com/metjush/envelopment-py/blob/master/envelopment.py#L153)
 2. (https://banxia.com/frontier/resources/how-data-envelopment-analysis-works/)
+
+### Day 87
+Datasets:
+1. http://www.andrew.cmu.edu/user/neils/tsp/
+2. http://www.math.uwaterloo.ca/tsp/data/index.html
+3. https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
+4. http://people.sc.fsu.edu/~jburkardt/f_src/tsp_io/tsp_io.html
+Useful tools:
+1.https://developers.google.com/optimization/install/python/
