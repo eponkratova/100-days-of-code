@@ -62,4 +62,4 @@ Useful tools:
 4. https://codereview.stackexchange.com/questions/194947/genetic-algorithm-for-traveling-salesman
 5. https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 6. http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5
-
+7. http://www.math.uwaterloo.ca/tsp/
