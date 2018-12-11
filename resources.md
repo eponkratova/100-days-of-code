@@ -63,3 +63,6 @@ Useful tools:
 5. https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 6. http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5
 7. http://www.math.uwaterloo.ca/tsp/
+
+### Day 91
+1. Brute force implementation: https://gist.github.com/westphahl/432876; https://gist.github.com/sheikhhanif/783c75c684fe8f6cd4abc1fdc54fca3c
