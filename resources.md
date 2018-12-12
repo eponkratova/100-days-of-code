@@ -73,3 +73,6 @@ Useful tools:
 3. TSP general: https://viterbipk12.usc.edu/wp-content/uploads/2017/06/Carlsson-Pages-from-William_Cook_In_pursuit_of_the_traveling_salesman.pdf
 4. TSP genetic in Java: http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5; http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3
 5. TSP simulated annealing: https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/
+6. TSP genetic in Python: https://stackoverflow.com/questions/11007355/data-for-simple-tsp
+https://codereview.stackexchange.com/questions/194947/genetic-algorithm-for-traveling-salesman
+https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
