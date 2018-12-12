@@ -68,5 +68,6 @@ Useful tools:
 1. Brute force implementation: https://gist.github.com/westphahl/432876; https://gist.github.com/sheikhhanif/783c75c684fe8f6cd4abc1fdc54fca3c
 
 ### Day 92
-1. Brunch and bound: https://people.eecs.berkeley.edu/~demmel/cs267/assignment4.html
-2. TSP: http://www.repec.mnje.com/mje/2014/v10-n02/mje_2014_v10-n02-a18.pdf
+1. TSP brunch and bound: https://people.eecs.berkeley.edu/~demmel/cs267/assignment4.html
+2. TSP brute force: http://www.repec.mnje.com/mje/2014/v10-n02/mje_2014_v10-n02-a18.pdf
+3. TSP general: https://viterbipk12.usc.edu/wp-content/uploads/2017/06/Carlsson-Pages-from-William_Cook_In_pursuit_of_the_traveling_salesman.pdf
