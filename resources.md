@@ -69,3 +69,4 @@ Useful tools:
 
 ### Day 92
 1. Brunch and bound: https://people.eecs.berkeley.edu/~demmel/cs267/assignment4.html
+2. TSP: http://www.repec.mnje.com/mje/2014/v10-n02/mje_2014_v10-n02-a18.pdf
