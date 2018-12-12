@@ -66,3 +66,6 @@ Useful tools:
 
 ### Day 91
 1. Brute force implementation: https://gist.github.com/westphahl/432876; https://gist.github.com/sheikhhanif/783c75c684fe8f6cd4abc1fdc54fca3c
+
+### Day 92
+1. Brunch and bound: https://people.eecs.berkeley.edu/~demmel/cs267/assignment4.html
