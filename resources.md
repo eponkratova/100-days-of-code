@@ -76,3 +76,7 @@ Useful tools:
 6. TSP genetic in Python: https://stackoverflow.com/questions/11007355/data-for-simple-tsp
 https://codereview.stackexchange.com/questions/194947/genetic-algorithm-for-traveling-salesman
 https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+
+### Day 103
+1. https://github.com/jzuccollo/pyDEA/blob/master/pydea/dea.py
+2. https://github.com/metjush/envelopment-py
