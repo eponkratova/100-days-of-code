@@ -84,3 +84,6 @@ https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algori
 ### Day 5 (II)
 1. https://towardsdatascience.com/why-you-need-to-care-about-interpretable-machine-learning-58b45d332c08
 2. https://medium.com/@Zelros/a-brief-history-of-machine-learning-models-explainability-f1c3301be9dc
+
+### Day 6 (II)
+1. https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
