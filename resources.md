@@ -87,3 +87,6 @@ https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algori
 
 ### Day 6 (II)
 1. https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
+
+### Day 8 (II)
+https://www.kdnuggets.com/2017/11/interpreting-machine-learning-models-overview.html
